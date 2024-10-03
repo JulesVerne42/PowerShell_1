@@ -1,6 +1,6 @@
 # PowerShell : 1
 
-## Tableau d'équivalence des commandes Bash vs PowerShell
+## Tableau d'équivalence des commandes Unix vs PowerShell
 
 | Unix | PowerShell |
 | :--: | :--------: |
