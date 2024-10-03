@@ -8,9 +8,9 @@
 | rm | Remove-Item |
 | cd | Set-Location |
 | mkdir | New-Item -name "Dossier" -ItemType Directory
-| man | help |
+| man | Help |
 | history | Get-History |
-| alias | alias
+| alias | Alias
 | cat | Get-Content |
 
 
