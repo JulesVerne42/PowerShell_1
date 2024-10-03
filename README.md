@@ -7,7 +7,7 @@
 | cp | Copy-Item |
 | rm | Remove-Item |
 | cd | Set-Location |
-| mkdir | New-Item -name "Dossier" -ItemType Directory
+| mkdir | New-Item -Name "Dossier" -ItemType Directory
 | man | Help |
 | history | Get-History |
 | alias | Alias
